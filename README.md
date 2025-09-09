@@ -305,10 +305,3 @@ dotnet build
 ```bash
 dotnet test
 ```
-
-
-## Acknowledgments
-
-- The .NET Foundation for the excellent SIMD support in .NET
-- Contributors who have helped improve this library
-- The open-source community for inspiration and feedback
